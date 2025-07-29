@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConsoleApp3</id>
+    <version>1.0.0</version>
+    <authors>ConsoleApp3</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="9b873160a69bd974ee865118f1f8f971156eb0c1" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.8">
+        <dependency id="Lextm.SharpSnmpLib" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\.vscode\ConsoleApp3\bin\Debug\net48\ConsoleApp3.exe" target="lib\net48\ConsoleApp3.exe" />
+  </files>
+</package>
